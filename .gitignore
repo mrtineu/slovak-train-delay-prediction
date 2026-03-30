@@ -5,4 +5,4 @@
 __pycache__
 log.log
 
-analysis/*.parquet
+analysis/data/*.parquet
