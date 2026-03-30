@@ -1,0 +1,21 @@
+[project]
+name = "train-delay-analysis"
+version = "0.1.0"
+description = "Notebook analysis workspace for Slovak train delay data"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "folium>=0.20.0",
+    "geopy>=2.4.1",
+    "jupyterlab>=4.4.0",
+    "lxml>=6.0.2",
+    "matplotlib>=3.10.0",
+    "networkx>=3.6.1",
+    "pandas>=2.2.0",
+    "pyarrow>=20.0.0",
+    "pymongo[srv]>=4.16.0",
+    "python-dotenv>=1.1.0",
+    "pyvis>=0.3.2",
+    "seaborn>=0.13.0",
+    "tqdm>=4.67.3",
+]
