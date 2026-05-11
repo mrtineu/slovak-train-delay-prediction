@@ -6,3 +6,4 @@ __pycache__
 log.log
 
 analysis/data/*.parquet
+node_modules
